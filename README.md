@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- BANNER IMAGE - Click to open full size -->
 [![Dashboard Preview](assets/dashboard_preview.png)](assets/dashboard_preview.png)
 
 <br/>
@@ -14,12 +15,10 @@
 <h3>& Customer Analytics Dashboard</h3>
 
 <p>
-A fully interactive <strong>Power BI Dashboard</strong> delivering deep insights into
-Walmart's e-commerce revenue, customer behavior, product performance,
-geographic distribution, payment trends, and time-based sales patterns.
+  A fully interactive <strong>Power BI Dashboard</strong> delivering deep insights into 
+  Walmart's e-commerce revenue, customer behavior, product performance, 
+  geographic distribution, payment trends, and time-based sales patterns.
 </p>
-
-<br/>
 
 [![View PDF Report](https://img.shields.io/badge/📄%20View%20PDF%20Report-Click%20Here-red?style=for-the-badge)](pdf/E-Commerce%20Sales%20Analytics%20Dashboard.pdf)
 [![Download PBIX](https://img.shields.io/badge/📥%20Download%20PBIX-Power%20BI%20File-yellow?style=for-the-badge)](dashboard/Walmart_ECommerce_Analytics.pbix)
@@ -34,23 +33,22 @@ geographic distribution, payment trends, and time-based sales patterns.
 - [Key Metrics](#-key-metrics)
 - [Dashboard Pages](#-dashboard-pages)
 - [Screenshots](#-screenshots)
-- [Tools and Technologies](#️-tools-and-technologies)
+- [Tools & Technologies](#️-tools--technologies)
 - [Repository Structure](#-repository-structure)
 - [How to Use](#-how-to-use)
 - [Key Insights](#-key-insights)
-- [Author](#-author)
 - [License](#-license)
 
 ---
 
 ## 📌 Project Overview
 
-This **Power BI** project delivers a comprehensive **E-Commerce Revenue Intelligence
-& Customer Analytics Dashboard** built on Walmart's retail dataset. It features
-**7 fully interactive report pages** designed to support data-driven decisions
+This **Power BI** project delivers a comprehensive **E-Commerce Revenue Intelligence 
+& Customer Analytics Dashboard** built on Walmart's retail dataset. It features 
+**7 fully interactive report pages** designed to support data-driven decisions 
 across revenue, customer engagement, product strategy, and geographic expansion.
 
-> 💡 **Goal:** Transform raw e-commerce transaction data into actionable business
+> 💡 **Goal:** Transform raw e-commerce transaction data into actionable business 
 > intelligence through interactive visual storytelling.
 
 ---
@@ -110,7 +108,7 @@ across revenue, customer engagement, product strategy, and geographic expansion.
 |--------|-------|
 | Customer Retention Rate | 100% |
 | Segments | Bronze / Silver / Gold / Platinum |
-| Top Customer LTV | Pooja — $2.11M |
+| Top Customer (LTV) | Pooja — $2.11M |
 
 ---
 
@@ -196,7 +194,7 @@ across revenue, customer engagement, product strategy, and geographic expansion.
 
 ---
 
-## 🛠️ Tools and Technologies
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
@@ -204,7 +202,7 @@ across revenue, customer engagement, product strategy, and geographic expansion.
 |------|---------|
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) **Power BI Desktop** | Dashboard Design & Visualization |
 | ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoft&logoColor=white) **DAX** | Data Analysis Expressions & KPI Measures |
-| **Power Query M** | Data Cleaning & Transformation |
+| **Power Query (M)** | Data Cleaning & Transformation |
 | **Microsoft Bing Maps** | Geographic Revenue Mapping |
 | **Excel / CSV** | Raw Data Source |
 
