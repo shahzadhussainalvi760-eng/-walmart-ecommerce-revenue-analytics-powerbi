@@ -211,3 +211,8 @@ across revenue, customer engagement, product strategy, and geographic expansion.
 ---
 
 ## 📁 Repository Structure
+👤 Author
+Shehzad Hussain
+Data Analyst
+🔗 LinkedIn | https://www.linkedin.com/in/shehzad-hussain-42a5443ab/
+🐙 GitHub
